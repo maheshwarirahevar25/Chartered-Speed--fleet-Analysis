@@ -55,4 +55,4 @@ Sample queries used for analysis:
 - `Dashboard_Screenshot.png` — Dashboard preview
 
 ## 👩‍💻 Author
-[Your Name]
+[Maheshwari]
